@@ -19,3 +19,5 @@ return c
 
 # make some changes 
 d = {2:56, 'hi':23}
+
+list1 = [35, 38 , 'hi']
